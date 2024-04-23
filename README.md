@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camsrabelo&repo=dio-lab-open-source&show_owner=true&theme=tokyonight)](https://github.com/camsrabelo/dio-lab-open-source)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=camsrabelo&repo=dio-lab-open-source&show_owner=true&theme=tokyonight)](https://github.com/camsrabelo/DIO-Microsoft-Azure-AI-Fundamentals)
 
 
 # Camila Suelen Rabelo <sub>(ou só _cams_)</sub>
